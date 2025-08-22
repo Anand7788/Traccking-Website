@@ -1,0 +1,20 @@
+.timeline-item {
+    display: flex;
+    align-items: flex-start;
+    margin: 1rem 0;
+  }
+  
+  .icon {
+    margin-right: 1rem;
+    margin-top: 0.3rem;
+  }
+  
+  .details .message {
+    font-weight: bold;
+  }
+  
+  .details .location, .details .time {
+    font-size: 0.9rem;
+    color: #666;
+  }
+  
